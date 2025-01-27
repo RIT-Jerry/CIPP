@@ -18,7 +18,7 @@ Merge branch 'KelvinTegelaar:main' into main #76
 Jobs
 Run details
 Workflow file for this run
-.github/workflows/azure-static-web-apps-green-sky-02f2fdd03.yml at d051636
+.github/workflows/AZURE-STATIC-WEB-APPS-Fix.yml at d051636
 name: Azure Static Web Apps CI/CD
 
 on:
